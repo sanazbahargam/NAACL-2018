@@ -28,7 +28,7 @@ This keynote was a bit all over the place (reviewing the speaker’s past projec
 ## Building innovative startups, products, and services – personal insights (by Daniel Marcu - USC):
 I think “How to have a successful career” would have been a better title for the talk, cause that’s what it was. He shared some of his personal insights which I’m going to list here:
 Master the hype cycle. He believes it is important to know (both for researchers and businesses) at which stage of the hype cycle a technology is to decide how they should focus on it. Here is the hype cycle from 2017 (and I’m not sure who makes this!):
-[Picture]
+![Picture](https://github.com/sanazb/NAACL-2018/blob/master/images/image1.jpg?raw=true)
 
   * Understand the space of competitors. Figure out what you can bring to the table that is unique or better. A successful career in research follows the same thing.
   * Have a contribution-driven mindset. Work on problems that have major contributions, and don’t let the complexity of the problems, or prestige, or the ongoing hype be your guide when choosing a problem to work on. 
